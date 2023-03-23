@@ -3,17 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.food.orderingl.system</groupId>
-        <artifactId>order-domain</artifactId>
+        <artifactId>food-ordering-system</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>order-domain-core</artifactId>
-    <name>Archetype - order-domain-core</name>
+    <artifactId>common</artifactId>
+    <packaging>pom</packaging>
+    <name>Archetype - common</name>
     <url>http://maven.apache.org</url>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.food.orderingl.system</groupId>
-            <artifactId>common-domain</artifactId>
-        </dependency>
-    </dependencies>
+    <modules>
+        <module>common-domain</module>
+    </modules>
 </project>
