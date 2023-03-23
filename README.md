@@ -6,3 +6,7 @@ Learn Spring boot microservices with Clean &amp; Hexagonal architectures, DDD, S
 <h3>i had prepare this diagram from the website https://excalidraw.com/ </h3>
 
 ![project-overview-section-1](https://user-images.githubusercontent.com/83503063/226446892-214431fb-bb7e-4d58-acd1-6b7df5001849.png)
+-----------------------------------------------------------------------------------------
+<h3> Designing Order Service domain logic components! </h3>
+
+![Uploading image.png…]()
